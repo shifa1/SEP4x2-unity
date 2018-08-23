@@ -1,0 +1,619 @@
+[
+    {
+        "outputFile": "C:\\Users\\jopaa\\Documents\\SEP4s\\examSEP4\\SEP4\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\Documents\\SEP4s\\examSEP4\\SEP4\\Temp\\gradleOut\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 55,
+                        "endColumn": 39,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 51,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 51,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 149,
+                    "endColumn": 52,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 52,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endColumn": 41,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 41,
+                        "endOffset": 255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 244,
+                    "endColumn": 51,
+                    "endOffset": 291
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 51,
+                        "endOffset": 307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 296,
+                    "endColumn": 47,
+                    "endOffset": 339
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 312,
+                        "endColumn": 47,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 344,
+                    "endColumn": 82,
+                    "endOffset": 422
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 360,
+                        "endColumn": 82,
+                        "endOffset": 438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 427,
+                    "endColumn": 81,
+                    "endOffset": 504
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 443,
+                        "endColumn": 81,
+                        "endOffset": 520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 509,
+                    "endColumn": 75,
+                    "endOffset": 580
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endColumn": 75,
+                        "endOffset": 596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 585,
+                    "endColumn": 74,
+                    "endOffset": 655
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 601,
+                        "endColumn": 74,
+                        "endOffset": 671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 660,
+                    "endColumn": 74,
+                    "endOffset": 730
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 676,
+                        "endColumn": 74,
+                        "endOffset": 746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 735,
+                    "endColumn": 71,
+                    "endOffset": 802
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 751,
+                        "endColumn": 71,
+                        "endOffset": 818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 807,
+                    "endColumn": 67,
+                    "endOffset": 870
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 823,
+                        "endColumn": 67,
+                        "endOffset": 886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endColumn": 74,
+                    "endOffset": 945
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 891,
+                        "endColumn": 74,
+                        "endOffset": 961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 950,
+                    "endColumn": 71,
+                    "endOffset": 1017
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 966,
+                        "endColumn": 71,
+                        "endOffset": 1033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1022,
+                    "endColumn": 68,
+                    "endOffset": 1086
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1038,
+                        "endColumn": 68,
+                        "endOffset": 1102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1091,
+                    "endColumn": 63,
+                    "endOffset": 1150
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1107,
+                        "endColumn": 63,
+                        "endOffset": 1166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1155,
+                    "endColumn": 64,
+                    "endOffset": 1215
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1171,
+                        "endColumn": 64,
+                        "endOffset": 1231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1220,
+                    "endColumn": 95,
+                    "endOffset": 1311
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1236,
+                        "endColumn": 95,
+                        "endOffset": 1327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1316,
+                    "endColumn": 65,
+                    "endOffset": 1377
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1332,
+                        "endColumn": 65,
+                        "endOffset": 1393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1382,
+                    "endColumn": 135,
+                    "endOffset": 1513
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1398,
+                        "endColumn": 135,
+                        "endOffset": 1529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1518,
+                    "endColumn": 111,
+                    "endOffset": 1625
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1534,
+                        "endColumn": 111,
+                        "endOffset": 1641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1630,
+                    "endColumn": 133,
+                    "endOffset": 1759
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1646,
+                        "endColumn": 133,
+                        "endOffset": 1775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1764,
+                    "endColumn": 89,
+                    "endOffset": 1849
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1780,
+                        "endColumn": 89,
+                        "endOffset": 1865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1854,
+                    "endColumn": 68,
+                    "endOffset": 1918
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1870,
+                        "endColumn": 68,
+                        "endOffset": 1934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1923,
+                    "endColumn": 33,
+                    "endOffset": 1952
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1939,
+                        "endColumn": 33,
+                        "endOffset": 1968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1957,
+                    "endColumn": 69,
+                    "endOffset": 2022
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1973,
+                        "endColumn": 69,
+                        "endOffset": 2038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2027,
+                    "endColumn": 72,
+                    "endOffset": 2095
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2043,
+                        "endColumn": 72,
+                        "endOffset": 2111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2100,
+                    "endColumn": 47,
+                    "endOffset": 2143
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2116,
+                        "endColumn": 47,
+                        "endOffset": 2159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2148,
+                    "endColumn": 45,
+                    "endOffset": 2189
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\.android\\build-cache\\7a7ebde24cd99959c255b369f39ae8f3707f783d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2164,
+                        "endColumn": 45,
+                        "endOffset": 2205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2194,
+                    "endLine": 33,
+                    "endColumn": 8,
+                    "endOffset": 2287
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\Documents\\SEP4s\\examSEP4\\SEP4\\Temp\\gradleOut\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 53,
+                        "endLine": 3,
+                        "endColumn": 8,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2292,
+                    "endLine": 37,
+                    "endColumn": 8,
+                    "endOffset": 2514
+                },
+                "from": {
+                    "file": "C:\\Users\\jopaa\\Documents\\SEP4s\\examSEP4\\SEP4\\Temp\\gradleOut\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 149,
+                        "endLine": 7,
+                        "endColumn": 8,
+                        "endOffset": 374
+                    }
+                }
+            }
+        ]
+    }
+]
